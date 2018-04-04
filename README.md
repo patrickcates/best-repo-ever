@@ -1,4 +1,3 @@
 # best-repo-ever
-H
+Here is some text added to the file.
 
-sdfdere is some text added to the file.
